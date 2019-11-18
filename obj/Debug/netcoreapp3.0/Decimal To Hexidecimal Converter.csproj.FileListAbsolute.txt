@@ -1,0 +1,11 @@
+C:\Users\peter\Desktop\C#Programs\Decimal To Hexidecimal Converter\bin\Debug\netcoreapp3.0\Decimal To Hexidecimal Converter.exe
+C:\Users\peter\Desktop\C#Programs\Decimal To Hexidecimal Converter\bin\Debug\netcoreapp3.0\Decimal To Hexidecimal Converter.deps.json
+C:\Users\peter\Desktop\C#Programs\Decimal To Hexidecimal Converter\bin\Debug\netcoreapp3.0\Decimal To Hexidecimal Converter.runtimeconfig.json
+C:\Users\peter\Desktop\C#Programs\Decimal To Hexidecimal Converter\bin\Debug\netcoreapp3.0\Decimal To Hexidecimal Converter.runtimeconfig.dev.json
+C:\Users\peter\Desktop\C#Programs\Decimal To Hexidecimal Converter\bin\Debug\netcoreapp3.0\Decimal To Hexidecimal Converter.dll
+C:\Users\peter\Desktop\C#Programs\Decimal To Hexidecimal Converter\bin\Debug\netcoreapp3.0\Decimal To Hexidecimal Converter.pdb
+C:\Users\peter\Desktop\C#Programs\Decimal To Hexidecimal Converter\obj\Debug\netcoreapp3.0\Decimal To Hexidecimal Converter.csprojAssemblyReference.cache
+C:\Users\peter\Desktop\C#Programs\Decimal To Hexidecimal Converter\obj\Debug\netcoreapp3.0\Decimal To Hexidecimal Converter.AssemblyInfoInputs.cache
+C:\Users\peter\Desktop\C#Programs\Decimal To Hexidecimal Converter\obj\Debug\netcoreapp3.0\Decimal To Hexidecimal Converter.AssemblyInfo.cs
+C:\Users\peter\Desktop\C#Programs\Decimal To Hexidecimal Converter\obj\Debug\netcoreapp3.0\Decimal To Hexidecimal Converter.dll
+C:\Users\peter\Desktop\C#Programs\Decimal To Hexidecimal Converter\obj\Debug\netcoreapp3.0\Decimal To Hexidecimal Converter.pdb
